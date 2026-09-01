@@ -6,6 +6,9 @@ production counterpart: **Gemini** for generation, **Gemini embeddings** for
 retrieval, **LangChain** for orchestration and **Chroma** as a local vector
 database.
 
+## MADE BY
+- Sebastian Albarracin Silva
+##
 ## 1. Objective and use case
 
 **Objective:** build a small Retrieval-Augmented Generation application and be
