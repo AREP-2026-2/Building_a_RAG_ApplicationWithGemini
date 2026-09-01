@@ -1,0 +1,14 @@
+# Python 3.11+ recommended (3.10 minimum). Pinned to a tested, working set (2026-08).
+langchain==1.3.18
+langchain-core==1.6.1
+langchain-community==0.4.2
+langchain-text-splitters==1.1.2
+langchain-google-genai==4.3.7
+langchain-chroma==1.1.0
+langgraph==1.2.11
+langgraph-prebuilt==1.1.0
+chromadb==1.5.9
+python-dotenv==1.2.3
+beautifulsoup4==4.15.0
+lxml==6.1.2
+jupyter==1.1.1

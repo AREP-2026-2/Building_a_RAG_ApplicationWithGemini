@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Local vector database (recreated by running the notebook)
+data/chroma/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
